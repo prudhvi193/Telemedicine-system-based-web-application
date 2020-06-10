@@ -1,6 +1,9 @@
 # Telemedicine
 Project was developed as part of Smart India Hackathon Competition in 2018 for the Minsitry of Health and Family Welfare
 
+Team Leader: Prudhviraj Sheela
+Team Members: Krishna Prasad Porandla, Dhana Prasad Macharla, Ravidutt Aerva, Sai Kumar Srirangam, Nama Venkata Sai Krishna
+
 Java Based Web Application for implementing a telemedicine system.
 
 Summary of the Project:
