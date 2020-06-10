@@ -1,4 +1,4 @@
-# telemedicine
+# Telemedicine
 Project was developed as part of Smart India Hackathon Competition in 2018 for the Minsitry of Health and Family Welfare
 
 Java Based Web Application for implementing a telemedicine system.
